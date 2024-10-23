@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# script to get basic server stats, not too complicated
+# script to get basic server stats, (not too complicated)
 # author: Ömer
 # this script provides cpu, memory, and disk usage stats along with top processes
 
