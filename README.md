@@ -33,3 +33,7 @@ This script is made to give basic server performance stats, like cpu usage, memo
 ## Author
 
 Ömer
+
+## Project URL
+
+[https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
